@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "qiaopi",
+      "name": "qiaopi-skill",
       "description": "侨批书信生成器 — 化身民国写批先生，代笔撰写侨批家书并生成仿古手写图片",
       "source": "./",
       "strict": false,
